@@ -1,0 +1,418 @@
+{
+  "movies": [
+    {
+      "name": "Hotel Rwanda",
+      "rating": 7.7,
+      "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives",
+      "imageURL": "https://www.themoviedb.org/t/p/original/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "year": 2004,
+      "genre": [
+        "drama",
+        "history",
+        "war"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Come and See",
+      "rating": 8.3,
+      "overview": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/c3dMbkY872FiEU1yNuhss2Cn0x0.jpg",
+      "year": 1985,
+      "genre": [
+        "drama",
+        "history",
+        "war"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Time of the Gypsies ",
+      "rating": 7.7,
+      "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/av6K9MX0jNNFAH6NZVrVV2DMAOA.jpg",
+      "year": 1988,
+      "genre": [
+        "drama",
+        "comedy",
+        "crime",
+        "fantasy"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Apocalypse Now ",
+      "rating": 8.7,
+      "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, does not exist, nor will it ever exist. His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/fpM34wbSvkmR0wFQSmcAsZrTYvw.jpg",
+      "year": 1979,
+      "genre": [
+        "drama",
+        "war"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Cinema Paradiso",
+      "rating": 8.5,
+      "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/9JhfVOveaY00o8njQu2Xrp4YWud.jpg",
+      "year": 1988,
+      "genre": [
+        "drama",
+        "romance"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Gone Girl",
+      "rating": 8.3,
+      "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/qymaJhucquUwjpb8oiqynMeXnID.jpg",
+      "year": 2014,
+      "genre": [
+        "mysery",
+        "thriller",
+        "drama"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Predestination",
+      "rating": 7.4,
+      "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/sYjpJZEdwELjdHy4OVzazeJVT0z.jpg",
+      "year": 2014,
+      "genre": [
+        "science fiction",
+        "thriller"
+      ],
+      "id": 7
+    },
+    {
+      "name": "A Quiet Place ",
+      "rating": 7.4,
+      "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "year": 2018,
+      "genre": [
+        "horror",
+        "drama",
+        "science fiction"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Batman: The Dark Night",
+      "rating": 8.5,
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "year": 2008,
+      "genre": [
+        "drama",
+        "action",
+        "crime",
+        "thriller"
+      ],
+      "id": 9
+    },
+    {
+      "name": "The Favourite",
+      "rating": 7.6,
+      "overview": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "year": 2008,
+      "genre": [
+        "drama",
+        "comedy",
+        "thriller"
+      ],
+      "id": 10
+    },
+    {
+      "name": "The Broken Landlord ",
+      "rating": 8.1,
+      "overview": "The landowner (Agha) of the Haraptar village marries off his old father with the young and beautiful Kiraz. But on the nuptial night, his father dies and everthing starts to go bad for the Agha. Due to the long drought and provocations of Kekec Salman (big brother of Kiraz), the peasants steal the crops and run away to Istanbul. Without the peasants and crops, Agha is also forced to sell the village and move to Istanbul.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/k91XbIdnDvzvg4RpwPh7mUz3VC7.jpg",
+      "year": 1985,
+      "genre": [
+        "drama",
+        "comedy"
+      ],
+      "id": 11
+    },
+    {
+      "name": "Gone with the Wind",
+      "rating": 8,
+      "overview": "The spoiled daughter of a well-to-do plantation owner is forced to use every means at her disposal to claw her way out of poverty, following Maj. Gen. William Sherman's destructive March to the Sea, during the American Civil War.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/1FdHtwie0iy6PWXgn2Gr6Zh83HU.jpg",
+      "year": 1939,
+      "genre": [
+        "drama",
+        "war",
+        "romance"
+      ],
+      "id": 12
+    },
+    {
+      "name": "On Board",
+      "rating": 7.2,
+      "overview": "Sailors want to remain in their small world, warm and cozy and full of lies, but they kidnap a prostitute from some pimps.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/9Frsz8qDqY2dFQrehbzm0XcY1hV.jpg",
+      "year": 1988,
+      "genre": [
+        "drama"
+      ],
+      "id": 13
+    },
+    {
+      "name": "The Lord of the Rings: The Two Towers",
+      "rating": 8.4,
+      "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "year": 2002,
+      "genre": [
+        "adventure",
+        "fantasy",
+        "action"
+      ],
+      "id": 14
+    },
+    {
+      "name": "Big Fish",
+      "rating": 7.8,
+      "overview": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/2yNNJtupbzdVV8hlo9bjuBJLhM8.jpg",
+      "year": 2003,
+      "genre": [
+        "adventure",
+        "fantasy",
+        "drama"
+      ],
+      "id": 15
+    },
+    {
+      "name": "The Gentlemen",
+      "rating": 7.7,
+      "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/j4MsWHOSmjvBkngzIMfmgWlftDF.jpg",
+      "year": 2019,
+      "genre": [
+        "crime",
+        "action",
+        "comedy"
+      ],
+      "id": 16
+    },
+    {
+      "name": "The Big Lebowski",
+      "rating": 7.8,
+      "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/mLgQnC7uYaTlol87uH1gndqOXB3.jpg",
+      "year": 1988,
+      "genre": [
+        "comedy",
+        "crime"
+      ],
+      "id": 17
+    },
+    {
+      "name": "Ivy",
+      "rating": 7.8,
+      "overview": "After months without pay, the already disgruntled crew on a Turkish cargo ship arrives in an Egyptian port and learns that the Port Authority is foreclosing on them. Ordered to anchor offshore, the remaining skeleton crew has their passports seized and must maintain the vessel until its owner’s debts are paid",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/jsqgoFLDX4o0dNkdjB8UG83Rzng.jpg",
+      "year": 2015,
+      "genre": [
+        "drama",
+        "fantacy",
+        "thriller"
+      ],
+      "id": 18
+    },
+    {
+      "name": "Awakenings",
+      "rating": 8,
+      "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to awaken the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/itO7cUSzeTCgXjO9zjkXBUjxwub.jpg",
+      "year": 1990,
+      "genre": [
+        "drama"
+      ],
+      "id": 19
+    },
+    {
+      "name": "Django Unchained",
+      "rating": 8.2,
+      "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/dnjV0kpq8dZi5J8zskmqOnJCnJg.jpg",
+      "year": 2012,
+      "genre": [
+        "drama",
+        "western"
+      ],
+      "id": 20
+    },
+    {
+      "name": "The Grand Budapest Hotel",
+      "rating": 8.1,
+      "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+      "year": 2014,
+      "genre": [
+        "drama",
+        "comedy"
+      ],
+      "id": 21
+    },
+    {
+      "name": "Ninja Assassin ",
+      "rating": 6.5,
+      "overview": "Ninja Assassin follows Raizo, one of the deadliest assassins in the world. Taken from the streets as a child, he was transformed into a trained killer by the Ozunu Clan, a secret society whose very existence is considered a myth. But haunted by the merciless execution of his friend by the Clan, Raizo breaks free from them and vanishes. Now he waits, preparing to exact his revenge.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/a7xkDt0feiDjHlrJW9X51yo2i4Y.jpg",
+      "year": 2009,
+      "genre": [
+        "action"
+      ],
+      "id": 22
+    },
+    {
+      "name": "Fury",
+      "rating": 7.5,
+      "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/c5dOrzJiW3jA3Erej6zOgJX8y76.jpg",
+      "year": 2014,
+      "genre": [
+        "drama",
+        "action",
+        "war"
+      ],
+      "id": 23
+    },
+    {
+      "name": "American History X",
+      "rating": 8.4,
+      "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "year": 1998,
+      "genre": [
+        "drama"
+      ],
+      "id": 24
+    },
+    {
+      "name": "Constantine",
+      "rating": 7,
+      "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/wtkbdBdscJqZws61NFuqJmVS0m3.jpg",
+      "year": 2005,
+      "genre": [
+        "fantacy",
+        "action",
+        "horror"
+      ],
+      "id": 25
+    },
+    {
+      "name": "The Medium",
+      "rating": 7,
+      "overview": "A horrifying story of a shaman’s inheritance in the Isan region of Thailand. But the goddess that appears to have taken possession of a family member turns out not to be as benevolent as it first appears.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/tWoSE8SH6XhgWKHIL3p0sj7lA3V.jpg",
+      "year": 2021,
+      "genre": [
+        "thriller",
+        "horror"
+      ],
+      "id": 26
+    },
+    {
+      "name": "Don't Look Up",
+      "rating": 7.2,
+      "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "year": 2021,
+      "genre": [
+        "comedy",
+        "drama",
+        "science fiction"
+      ],
+      "id": 28
+    },
+    {
+      "name": "12 Angry Men ",
+      "rating": 8.5,
+      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/5W4wwMOGMYVdbig2ahYGa6NOXhM.jpg",
+      "year": 1957,
+      "genre": [
+        "drama"
+      ],
+      "id": 30
+    },
+    {
+      "name": "Saving Private Ryan",
+      "rating": 8.2,
+      "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/1wY4psJ5NVEhCuOYROwLH2XExM2.jpg",
+      "year": 1998,
+      "genre": [
+        "drama",
+        "history",
+        "war"
+      ],
+      "id": 31
+    },
+    {
+      "name": "American Psycho",
+      "rating": 7.4,
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/2DWqsx0vafGcfytSIwhtL5nI1uV.jpg",
+      "year": 2000,
+      "genre": [
+        "drama",
+        "thriller",
+        "crime"
+      ],
+      "id": 32
+    },
+    {
+      "name": "Black Bird",
+      "rating": 8,
+      "overview": "As Jimmy Keene begins a 10-year prison sentence, he gets an incredible offer: If he can elicit a confession from suspected killer Larry Hall, Jimmy will be freed. Completing this mission becomes the challenge of a lifetime.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/79M2yNSmkh4CCMrWNV6b2xvIeNn.jpg",
+      "year": 2022,
+      "id": 33
+    },
+    {
+      "name": "The Ledge",
+      "rating": 6.3,
+      "overview": "A rock climbing adventure between two friends turns into a terrifying nightmare. After Kelly captures the murder of her best friend on camera, she becomes the next target of a tight-knit group of friends who will stop at nothing to destroy the evidence and anyone in their way. Desperate for her safety, she begins a treacherous climb up a mountain cliff and her survival instincts are put to the test when she becomes trapped with the killers just 20 feet away.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/dHKfsdNcEPw7YIWFPIhqiuWrSAb.jpg",
+      "year": 2022,
+      "id": 34
+    },
+    {
+      "name": "Queen of Spades",
+      "rating": 6.3,
+      "overview": "According to legend, an ominous entity known as the Queen of Spades can be summoned by performing an ancient ritual. Four teenagers summon the Queen of Spades, but they could never imagine the horrors that await them.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/4IKBzVBPLXu9p5cfEfdJjHdlafV.jpg",
+      "year": 2021,
+      "id": 35
+    },
+    {
+      "name": "Pride & Prejudice",
+      "rating": 8.1,
+      "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "year": "2005",
+      "id": 36
+    },
+    {
+      "name": "Old Boy",
+      "rating": "8.3",
+      "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate businessman seeks revenge on his captors.",
+      "imageURL": "https://www.themoviedb.org/t/p/w1280/cvvF42ALBMJMNFQvB5y9L9FTnI7.jpg",
+      "year": "2003",
+      "id": 37
+    }
+  ]
+}

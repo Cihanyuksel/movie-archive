@@ -1,0 +1,59 @@
+body, html {
+    background: #f2f5f7!important;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .mySwiper {
+    background-color: white;
+    padding: 20px !important;
+    border-radius: 10px;
+    max-width: 100%;
+    width: 95%;
+  }
+  
+  .swiper-button-prev, .swiper-button-next  {
+    /* left: 0 !important; */
+    color: rgb(251 146 60) !important;
+    padding: 30px;
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50%;
+    background-color: rgb(68 64 60) !important;
+  }
+
+.swiper-container {
+    width: 100%;
+  }
+
+  @media screen and (min-width: 350px) {
+    .swiper-container {
+      width: 350px;
+    }
+  }
+
+  @media screen and (min-width: 450px) {
+    .swiper-container {
+      width: 450px;
+    }
+  }
+
+  @media screen and (min-width: 640px) {
+    .swiper-container {
+      width: 640px;
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .swiper-container {
+      width: 768px;
+    }
+  }
+
+  @media screen and (min-width: 976px) {
+    .swiper-container {
+      width: 976px;
+    }
+  }

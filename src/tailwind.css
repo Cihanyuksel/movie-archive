@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Nunito:wght@200;300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+
+@layer base {
+    .btn-filter {
+      @apply  p-[6px] w-24 bg-white hover:bg-orange-300 font-text hover:text-white transition-colors active:bg-orange-400 mb-2 font-medium text-orange-400 border-[1px] border-orange-300 rounded-sm;
+    }
+
+    .movie-detail-icon {
+      @apply  h-10 w-10 rounded-full bg-white text-neutral-800 inline-flex items-center justify-center hover:-translate-y-1 transition-all;
+    }
+
+    .scrollup-btn {
+      @apply  w-11 h-11 inline-flex items-center justify-center bg-orange-500 rounded-full fixed right-5 bottom-14 transition-all;
+    }
+
+    .movie-detail-bg {
+      @apply  w-full justify-between rounded-sm flex flex-col ml-5 bg-movie-detail bg-no-repeat bg-cover;
+    }
+
+    .addform-input {
+      @apply h-10 border-[1px] border-zinc-200 rounded-md outline-none p-2;
+    }
+
+    .add-btn {
+      @apply w-20 h-8 border-2 rounded-md text-orange-400 border-orange-400  text-sm inline-flex items-center justify-center hover:text-white hover:bg-orange-400 transition-colors;
+    }
+
+    .load-more-btn {
+      @apply bg-orange-400 w-full p-2 rounded-sm text-white text-lg font-semibold tracking-widest self-end hover:bg-orange-500 transition-colors active:bg-zinc-500;
+    }
+
+    .badge {
+      @apply absolute right-[92px] -top-2 bg-orange-400 h-5 w-5 rounded-full text-xs inline-flex justify-center items-center text-white;
+    }
+
+    .search-input {
+      @apply h-10 w-full text-sm pl-10 rounded-3xl border-[1px] border-orange-400 outline-none p-5 placeholder:font-light placeholder:font-text;
+    }
+  }
+
+
+  
