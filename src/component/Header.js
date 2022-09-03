@@ -11,7 +11,7 @@ function Header({setQuery, favMovieFilter}) {
   
   return (
     <header className='w-full h-20 z-10 text-xl font-semibold px-5 gap-5 flex items-center bg-white fixed top-0 shadow-md justify-around'>
-        <Link to='/' className={`text-orange-400 font-display flex-none font-semibold ${match?.pathname || match1?.pathname ? '' : ""}`}>Cihan Movie Archieve</Link>
+        <Link to='/' className={`text-orange-400 font-display flex-none font-semibold ${match?.pathname || match1?.pathname ? '' : ""}`}>Movie Archive</Link>
   
        {match?.pathname  || match1?.pathname
        ? ""
